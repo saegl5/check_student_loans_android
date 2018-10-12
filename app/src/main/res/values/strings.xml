@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="app_name">Student Loans</string>
+
+    //Page View 1
+    <string name="loaned1">Loaned ($)</string>
+    <string name="twentythousand">20,000</string>
+    <string name="thirtythousand">30,000</string>
+    <string name="apr">APR</string>
+    <string name="directperkinsloan">4.66% - Direct Loan</string>
+    <string name="imagebutton">null</string>
+    <string name="paymonthly1">Pay Monthly ($)</string>
+    <string name="amount">77.67</string>
+    <string name="minimum">Minimum</string>
+    <string name="esttime">Est. Payoff Time</string>
+    <string name="hundredninetyseven">197</string>
+    <string name="years">year(s)</string>
+    <string name="ten">10</string>
+    <string name="months">month(s)</string> //informal pilot study and focus groups: inserted 'android:layout_marginBottom="19.2dp"'
+    <string name="estsavings">Est. Saving ($)</string> //informal pilot study and focus groups: singular
+    <string name="zero">0</string>
+
+    //Page View 1 - for "Awesome" only
+    <string name="awesome">Awesome!</string>
+
+    //Page View 2
+    <string name="loaned2">Loaned</string>
+    <string name="line">null</string>
+    <string name="nominalrate">Nominal Rate</string>
+    <string name="periodicrate">Periodic Rate</string>
+    <string name="decimalequivalent">Decimal Equivalent</string>
+    <string name="paymonthly2">Pay Monthly</string>
+    <string name="remainingbalance">Remaining Balance Each Month</string>
+    <string name="month1">Month 1</string>
+    <string name="month2">Month 2</string>
+    <string name="month3">Month 3</string>
+    <string name="keepgoinguntil">keep going until</string>
+    <string name="monthmax">Last Month</string>
+    <string name="estimatedtime">Estimated Payoff Time</string>
+    <string name="yearstemp">Years</string>
+    <string name="monthstemp">Months</string>
+    <string name="estimatedsavings">Estimated Saving ($)</string>
+    <string name="totalpaidtemp">Total Paid</string>
+    <string name="savingstemp">Savings</string>
+
+    /Page View 2 - but for concatenation of strings
+    <string name="loaned_string">Loaned = $%1$.2f</string>
+    <string name="apr_string">APR = %1$.2f%2$s</string>
+    <string name="div12">÷ 12 = %1$.5f%2$s</string>
+    <string name="div100">÷ 100 = %1$.5f %2$s</string>
+    <string name="pay">Pay = $%1$.2f%2$s</string>
+    <string name="month_string">%1$.2f + (%2$.2f × %3$.5f) – %4$.2f = %5$.2f</string>
+    <string name="years_string">%1$d ÷ 12 = %2$d %3$s</string>
+    <string name="months_string">%1$d – (%2$d × 12) = %3$d %4$s</string>
+    <string name="total_string">(%1$d × %2$.2f) + %3$.2f = $%4$.2f %5$s</string>
+    <string name="savings_string">%1$.2f (if pay min) – %2$.2f = $%3$.2f %4$s</string>
+
+</resources>

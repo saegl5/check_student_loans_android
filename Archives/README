@@ -1,0 +1,10 @@
+In Android phone Security settings, allow installation of apps from unknown sources.
+Install each application package directly on phones running Android 4.2 (Jelly Bean) or above.
+
+RECOMMENDATION: Verify each Android application package.
+
+Do so by opening a terminal application and typing, for example:
+$ unzip -p focus_groups.apk META-INF/CERT.RSA | keytool -printcert | grep SHA256
+
+Check the fingerprint:
+01:A9:E6:49:04:C3:76:5E:0F:97:FC:0A:D2:86:E1:2B:24:CB:3E:6D:F6:6F:5F:0E:4E:07:5E:1D:FF:71:5A:A0

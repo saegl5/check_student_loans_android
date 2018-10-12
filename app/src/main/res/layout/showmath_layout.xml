@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:autofit="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="181.44dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/loaned2"
+            android:id="@+id/textView14"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/lineshorter"
+            android:contentDescription="@string/line" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/nominalrate"
+            android:id="@+id/textView15"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/periodicrate"
+            android:id="@+id/textView16"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/decimalequivalent"
+            android:id="@+id/textView17"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView2"
+            android:src="@drawable/lineshorter"
+            android:contentDescription="@string/line" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/paymonthly2"
+            android:id="@+id/textView18"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginLeft="4.3dp"
+        android:layout_marginRight="4.3dp"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView3"
+            android:src="@drawable/line"
+            android:contentDescription="@string/line" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/remainingbalance"
+            android:id="@+id/textView19"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView4"
+            android:src="@drawable/line"
+            android:contentDescription="@string/line" />
+
+        <me.grantland.widget.AutofitTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/month1"
+            android:id="@+id/textView20"
+            android:textColor="#000000"
+            android:textSize="13.44dp"
+            autofit:minTextSize="11.52dp"
+            android:maxLines="1" />
+
+        <me.grantland.widget.AutofitTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/month2"
+            android:id="@+id/textView21"
+            android:textColor="#000000"
+            android:textSize="13.44dp"
+            autofit:minTextSize="11.52dp"
+            android:maxLines="1" />
+
+        <me.grantland.widget.AutofitTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/month3"
+            android:id="@+id/textView22"
+            android:textColor="#000000"
+            android:textSize="13.44dp"
+            autofit:minTextSize="11.52dp"
+            android:maxLines="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/keepgoinguntil"
+            android:id="@+id/textView23"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <me.grantland.widget.AutofitTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/monthmax"
+            android:id="@+id/textView24"
+            android:textColor="#000000"
+            android:textSize="13.44dp"
+            autofit:minTextSize="11.52dp"
+            android:maxLines="1" />
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView5"
+            android:src="@drawable/line"
+            android:contentDescription="@string/line" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.25"
+        android:layout_marginLeft="4.3dp"
+        android:layout_marginRight="4.3dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/estimatedtime"
+            android:id="@+id/textView25"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/yearstemp"
+            android:id="@+id/textView26"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/monthstemp"
+            android:id="@+id/textView27"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1.15"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="4.3dp"
+        android:layout_marginRight="4.3dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/estimatedsavings"
+            android:id="@+id/textView28"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/totalpaidtemp"
+            android:id="@+id/textView29"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/savingstemp"
+            android:id="@+id/textView30"
+            android:textColor="#000000"
+            android:textSize="13.44dp" />
+    </LinearLayout>
+
+</LinearLayout>
