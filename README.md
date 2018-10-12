@@ -55,7 +55,7 @@ Press &minus; or &#43; to select a monthly payment nearest to yours.<p>
 ## Contributing
 
 This project has been archived.<br>
-Please contribute to the project's counterpart, which is based on iOS, by going [here](https://gitlab.com/ed.silkworth/check_student_loans_app_iOS "Click here to access the most recent iOS build.").<p>
+Please contribute to the project's counterpart, which is based on iOS, by going [here](https://gitlab.com/ed.silkworth/check_student_loans_app_ios "Click here to access the most recent iOS build.").<p>
 
 ## History
 
@@ -64,7 +64,7 @@ Sep 26, 2018 &middot; Version 1.x: initial commit
 ## Known Issues
 
 This native app is an alpha build that is outdated.<br>
-Access the native app's most recent build, which is based on iOS, [here](https://gitlab.com/ed.silkworth/check_student_loans_app_iOS "Click here to access the most recent build.").<p>
+Access the native app's most recent build, which is based on iOS, [here](https://gitlab.com/ed.silkworth/check_student_loans_app_ios "Click here to access the most recent build.").<p>
 
 
 ## License
