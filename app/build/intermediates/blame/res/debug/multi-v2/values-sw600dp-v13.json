@@ -4,15 +4,8 @@
             "outputFile": "/home/ed/StudioProjects/check_student_loans_app_android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a8831dd28eaca0503584bd77501dc98/res/values-sw600dp/values-sw600dp.xml",
+                    "source": "/home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/229a44cf61b8fca4c17f74293b8ab921/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
-                        "startLines": "4,5,6,7,10,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "284,353,423,497,802,1090,1161,1229",
-                        "endColumns": "68,69,73,75,58,70,67,54",
-                        "endOffsets": "348,418,492,568,856,1156,1224,1279"
-                    },
-                    "to": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
                         "startOffsets": "55,124,194,268,344,403,474,542",

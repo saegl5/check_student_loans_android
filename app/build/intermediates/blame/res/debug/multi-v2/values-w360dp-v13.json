@@ -4,15 +4,8 @@
             "outputFile": "/home/ed/StudioProjects/check_student_loans_app_android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a8831dd28eaca0503584bd77501dc98/res/values-w360dp/values-w360dp.xml",
+                    "source": "/home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/229a44cf61b8fca4c17f74293b8ab921/res/values-w360dp-v13/values-w360dp-v13.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "283",
-                        "endColumns": "54",
-                        "endOffsets": "333"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
