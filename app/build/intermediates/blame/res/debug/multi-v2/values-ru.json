@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ed/Desktop/check_student_loans_app_android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+            "outputFile": "/home/ed/StudioProjects/check_student_loans_app_android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
             "map": [
                 {
                     "source": "/home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/2a8831dd28eaca0503584bd77501dc98/res/values-ru/values-ru.xml",

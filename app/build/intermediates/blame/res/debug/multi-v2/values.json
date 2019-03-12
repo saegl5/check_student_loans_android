@@ -1,8 +1,44 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ed/Desktop/check_student_loans_app_android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/ed/StudioProjects/check_student_loans_app_android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
+                {
+                    "source": "/home/ed/StudioProjects/check_student_loans_app_android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "259",
+                        "startColumns": "4",
+                        "startOffsets": "30903",
+                        "endLines": "264",
+                        "endColumns": "12",
+                        "endOffsets": "31215"
+                    }
+                },
+                {
+                    "source": "/home/ed/StudioProjects/check_student_loans_app_android/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "6,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "155,57,104",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "196,99,150"
+                    },
+                    "to": {
+                        "startLines": "31,32,33",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2128,2174,2221",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "2169,2216,2267"
+                    }
+                },
                 {
                     "source": "/home/ed/.gradle/caches/transforms-1/files-1.1/autofittextview-0.2.1.aar/e7e9e1483a8910935971d9591c742549/res/values/values.xml",
                     "from": {
@@ -18,23 +54,6 @@
                         "startOffsets": "7803",
                         "endColumns": "191",
                         "endOffsets": "7990"
-                    }
-                },
-                {
-                    "source": "/home/ed/Desktop/check_student_loans_app_android/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "6,4,5",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "155,57,104",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "196,99,150"
-                    },
-                    "to": {
-                        "startLines": "31,32,33",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "2128,2174,2221",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "2169,2216,2267"
                     }
                 },
                 {
@@ -57,26 +76,7 @@
                     }
                 },
                 {
-                    "source": "/home/ed/Desktop/check_student_loans_app_android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "366"
-                    },
-                    "to": {
-                        "startLines": "259",
-                        "startColumns": "4",
-                        "startOffsets": "30903",
-                        "endLines": "264",
-                        "endColumns": "12",
-                        "endOffsets": "31215"
-                    }
-                },
-                {
-                    "source": "/home/ed/Desktop/check_student_loans_app_android/app/src/main/res/values/dimens.xml",
+                    "source": "/home/ed/StudioProjects/check_student_loans_app_android/app/src/main/res/values/dimens.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -93,7 +93,7 @@
                     }
                 },
                 {
-                    "source": "/home/ed/Desktop/check_student_loans_app_android/app/src/main/res/values/strings.xml",
+                    "source": "/home/ed/StudioProjects/check_student_loans_app_android/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "12,2,8,47,23,30,9,49,48,41,38,19,14,15,10,36,27,5,26,46,13,33,34,35,51,37,18,53,40,28,50,11,31,29,32,55,43,17,7,54,42,6,16,52,39,20",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
