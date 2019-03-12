@@ -17,8 +17,8 @@ Features:
 Designed for phones running Android 4.2 (Jelly Bean) or above.<p>
 
 Alternative downloads:<br>
-[Version 1.x for Formal Pilot Study](/Archives/formal_pilot_study.apk "Click here to access the download link.")<br>
-[Version 1.x for Informal Pilot Study](/Archives/informal_pilot_study.apk "Click here to access the download link.")<br>
+[Version 1.x for Formal Pilot Test](/Archives/formal_pilot_test.apk "Click here to access the download link.")<br>
+[Version 1.x for Informal Pilot Test](/Archives/informal_pilot_test.apk "Click here to access the download link.")<br>
 [Version 1.x for Focus Groups](/Archives/focus_groups.apk "Click here to access the download link.")<p>
 
 Install alternative downloads directly on phones running Android 4.2 (Jelly Bean) or above.
