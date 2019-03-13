@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "com.example.edsilkworth.instructionalappstopromotefinancialliteracy"
         minSdkVersion 17
-        targetSdkVersion 23 //new Google Play guidelines require version 26 or higher
+        targetSdkVersion 23 //new Google Play guidelines require API version 26 or higher
         versionCode 1
         versionName "1.0"
     }
