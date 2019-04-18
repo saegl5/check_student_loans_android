@@ -4,11 +4,11 @@ ADDED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml:3:1-30:12
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml:3:1-30:12
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml:3:1-30:12
-MERGED from [me.grantland:autofittextview:0.2.1] /home/ed/.gradle/caches/transforms-1/files-1.1/autofittextview-0.2.1.aar/e7e9e1483a8910935971d9591c742549/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/229a44cf61b8fca4c17f74293b8ab921/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/2765563ab7a03ed09ee6c77feeab2715/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/1407e17c548cc6dd3bf8a0a7a5657023/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/728ef642c12cdc2e3d780b0457e785da/AndroidManifest.xml:17:1-24:12
+MERGED from [me.grantland:autofittextview:0.2.1] /home/ed/.gradle/caches/transforms-1/files-1.1/autofittextview-0.2.1.aar/9e10f751a5dfbd8590c3161b3f5fc7d4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/57259157c9b50584dff89e6b28c78b7b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/ad4a9dd5aebf255e6f182cc266577c6e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/69b0ccf16febdd18ed8e2fda21be9bb1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/29d486e7f02e081dd772cfee821c9fcf/AndroidManifest.xml:17:1-24:12
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml:3:1-30:12
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml:3:1-30:12
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml:3:1-30:12
@@ -28,14 +28,14 @@ INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/ma
 		ADDED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml:4:5-63
 application
 ADDED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml:7:5-29:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/229a44cf61b8fca4c17f74293b8ab921/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/229a44cf61b8fca4c17f74293b8ab921/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/2765563ab7a03ed09ee6c77feeab2715/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/2765563ab7a03ed09ee6c77feeab2715/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/1407e17c548cc6dd3bf8a0a7a5657023/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/1407e17c548cc6dd3bf8a0a7a5657023/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/728ef642c12cdc2e3d780b0457e785da/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/728ef642c12cdc2e3d780b0457e785da/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/57259157c9b50584dff89e6b28c78b7b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/57259157c9b50584dff89e6b28c78b7b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/ad4a9dd5aebf255e6f182cc266577c6e/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/ad4a9dd5aebf255e6f182cc266577c6e/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/69b0ccf16febdd18ed8e2fda21be9bb1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/69b0ccf16febdd18ed8e2fda21be9bb1/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/29d486e7f02e081dd772cfee821c9fcf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/29d486e7f02e081dd772cfee821c9fcf/AndroidManifest.xml:22:5-20
 	android:supportsRtl
 		ADDED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
@@ -78,20 +78,20 @@ uses-sdk
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml
-MERGED from [me.grantland:autofittextview:0.2.1] /home/ed/.gradle/caches/transforms-1/files-1.1/autofittextview-0.2.1.aar/e7e9e1483a8910935971d9591c742549/AndroidManifest.xml:7:5-9:41
-MERGED from [me.grantland:autofittextview:0.2.1] /home/ed/.gradle/caches/transforms-1/files-1.1/autofittextview-0.2.1.aar/e7e9e1483a8910935971d9591c742549/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/229a44cf61b8fca4c17f74293b8ab921/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/229a44cf61b8fca4c17f74293b8ab921/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/2765563ab7a03ed09ee6c77feeab2715/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/2765563ab7a03ed09ee6c77feeab2715/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/1407e17c548cc6dd3bf8a0a7a5657023/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/1407e17c548cc6dd3bf8a0a7a5657023/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/728ef642c12cdc2e3d780b0457e785da/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/728ef642c12cdc2e3d780b0457e785da/AndroidManifest.xml:20:5-43
+MERGED from [me.grantland:autofittextview:0.2.1] /home/ed/.gradle/caches/transforms-1/files-1.1/autofittextview-0.2.1.aar/9e10f751a5dfbd8590c3161b3f5fc7d4/AndroidManifest.xml:7:5-9:41
+MERGED from [me.grantland:autofittextview:0.2.1] /home/ed/.gradle/caches/transforms-1/files-1.1/autofittextview-0.2.1.aar/9e10f751a5dfbd8590c3161b3f5fc7d4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/57259157c9b50584dff89e6b28c78b7b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/57259157c9b50584dff89e6b28c78b7b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/ad4a9dd5aebf255e6f182cc266577c6e/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/ad4a9dd5aebf255e6f182cc266577c6e/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/69b0ccf16febdd18ed8e2fda21be9bb1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/69b0ccf16febdd18ed8e2fda21be9bb1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/29d486e7f02e081dd772cfee821c9fcf/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/29d486e7f02e081dd772cfee821c9fcf/AndroidManifest.xml:20:5-43
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml
 INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/229a44cf61b8fca4c17f74293b8ab921/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/ed/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/57259157c9b50584dff89e6b28c78b7b/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml
 		ADDED from /home/ed/StudioProjects/check_student_loans_app_android/app/src/main/AndroidManifest.xml
