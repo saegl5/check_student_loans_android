@@ -4,11 +4,11 @@ ADDED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml:3:1-30:12
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml:3:1-30:12
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml:3:1-30:12
-MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\30ba298017d10c4fac2a7d5fd31b8765\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6f7bee59842084bcba2ae4a929a5b528\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\a9be44caa28a6e467c0e0d6b816756fc\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\8e3711ab690f4b7a3af14b4c02005602\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\64ebfe1512be4cd6bf28a8fc582258f7\AndroidManifest.xml:17:1-24:12
+MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\29148a3bff0ab665e43ce60b4c2b34b2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\e613b65bae843b9c6af372077029cf29\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6dcbb0c7453fcc762a2f3b23fb418d02\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\26dce73a902cb6124093b3628c7f5571\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\809d226c18d82c82c9e877b418a4298a\AndroidManifest.xml:17:1-24:12
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml:3:1-30:12
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml:3:1-30:12
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml:3:1-30:12
@@ -28,14 +28,14 @@ INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_andro
 		ADDED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml:4:5-63
 application
 ADDED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml:7:5-29:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6f7bee59842084bcba2ae4a929a5b528\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6f7bee59842084bcba2ae4a929a5b528\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\a9be44caa28a6e467c0e0d6b816756fc\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\a9be44caa28a6e467c0e0d6b816756fc\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\8e3711ab690f4b7a3af14b4c02005602\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\8e3711ab690f4b7a3af14b4c02005602\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\64ebfe1512be4cd6bf28a8fc582258f7\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\64ebfe1512be4cd6bf28a8fc582258f7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\e613b65bae843b9c6af372077029cf29\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\e613b65bae843b9c6af372077029cf29\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6dcbb0c7453fcc762a2f3b23fb418d02\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6dcbb0c7453fcc762a2f3b23fb418d02\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\26dce73a902cb6124093b3628c7f5571\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\26dce73a902cb6124093b3628c7f5571\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\809d226c18d82c82c9e877b418a4298a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\809d226c18d82c82c9e877b418a4298a\AndroidManifest.xml:22:5-20
 	android:supportsRtl
 		ADDED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
@@ -78,20 +78,20 @@ uses-sdk
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml
-MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\30ba298017d10c4fac2a7d5fd31b8765\AndroidManifest.xml:7:5-9:41
-MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\30ba298017d10c4fac2a7d5fd31b8765\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6f7bee59842084bcba2ae4a929a5b528\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6f7bee59842084bcba2ae4a929a5b528\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\a9be44caa28a6e467c0e0d6b816756fc\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\a9be44caa28a6e467c0e0d6b816756fc\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\8e3711ab690f4b7a3af14b4c02005602\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\8e3711ab690f4b7a3af14b4c02005602\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\64ebfe1512be4cd6bf28a8fc582258f7\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\64ebfe1512be4cd6bf28a8fc582258f7\AndroidManifest.xml:20:5-43
+MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\29148a3bff0ab665e43ce60b4c2b34b2\AndroidManifest.xml:7:5-9:41
+MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\29148a3bff0ab665e43ce60b4c2b34b2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\e613b65bae843b9c6af372077029cf29\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\e613b65bae843b9c6af372077029cf29\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6dcbb0c7453fcc762a2f3b23fb418d02\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6dcbb0c7453fcc762a2f3b23fb418d02\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\26dce73a902cb6124093b3628c7f5571\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\26dce73a902cb6124093b3628c7f5571\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\809d226c18d82c82c9e877b418a4298a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\809d226c18d82c82c9e877b418a4298a\AndroidManifest.xml:20:5-43
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\6f7bee59842084bcba2ae4a929a5b528\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ed Silkworth\.gradle\caches\transforms-2\files-2.1\e613b65bae843b9c6af372077029cf29\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Ed Silkworth\StudioProjects\check_student_loans_app_android\app\src\main\AndroidManifest.xml
