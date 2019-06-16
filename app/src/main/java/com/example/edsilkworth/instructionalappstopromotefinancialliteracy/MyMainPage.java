@@ -21,7 +21,7 @@ import android.widget.TextView;
 
 public class MyMainPage extends Fragment { //no need to call any list view delegate or data source
 
-    SeekBar loaned; //test
+    SeekBar loaned;
     Switch apr;
     Button interest_rate;
     ImageButton arrow_unpressed;
