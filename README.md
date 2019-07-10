@@ -12,9 +12,9 @@ The app will estimate how long repayments will take and how much users can save 
 
 Features:
 * Automatic estimation
-* Swipe leftward to view how estimates were calculated
+* Swipe leftward to view how estimates were calculated.
 
-Designed for phones running Android 4.2 (Jelly Bean) or above.<p>
+Designed for phones running Android 4.2 (Jelly Bean) or above<p>
 
 Alternative downloads:<br>
 [Version 1.x for Formal Pilot Test](/Archives/formal_pilot_test.apk "Click here to access the download link.")<br>
@@ -41,7 +41,7 @@ $ git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
 
-Final version is 1.x. Known to work on Ubuntu 18.04 LTS (Linux 4.15.0-46-generic), in Android Studio 3.3.1 (AI-182.5107.16.33.5264788) with JRE<sup>TM</sup> 8u152 64-Bit (1.8.0_152-release-1248-b01 amd64).
+The final version is 1.x. Known to work on Ubuntu 18.04 LTS (Linux 4.15.0-46-generic), in Android Studio 3.3.1 (AI-182.5107.16.33.5264788) with JRE<sup>TM</sup> 8u152 64-Bit (1.8.0_152-release-1248-b01 amd64)
 
 ## Usage
 
