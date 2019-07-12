@@ -1,28 +1,14 @@
-In Android phone Security settings, allow installation of apps from unknown sources.
+In Android phone security settings, allow installation of apps from unknown sources.
 Install each application package directly on phones running Android 4.2 (Jelly Bean) or above.
 
-RECOMMENDATION: Verify each Android application package's sum and fingerprint in a terminal application.
+--------------------------------------------------------------------------------------------------
+Optional
 
-Verify the sum:
-$ sha256sum formal_pilot_test.apk
-c390f6a054cfb699fcc209f671a7ff8df6d2df9d7145642dfa1663c890f07b99  formal_pilot_test.apk
+To verify the authenticity of the application packages in GNOME Terminal (or similar):
+$ gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys 0x4191f431
+$ gpg --verify SHA1SUMS.gpg SHA1SUMS (example)
 
-Verify the fingerprint:
-$ unzip -p formal_pilot_test.apk META-INF/CERT.RSA | keytool -printcert | grep SHA1
-SHA1: 25:36:90:C2:D7:B8:99:CF:33:F8:B5:0A:D7:99:57:C6:EA:48:44:4D
+To verify the integrity of the application packages in GNOME Terminal (or similar):
+$ sha1sum -c SHA1SUMS (example)
 
-Verify the sum:
-$ sha256sum informal_pilot_test.apk
-70246579afcb5b944812d34e2b821939a692692a413e5346fcbd5eb9319078fc  informal_pilot_test.apk
-
-Verify the fingerprint:
-$ unzip -p informal_pilot_test.apk META-INF/CERT.RSA | keytool -printcert | grep SHA1
-SHA1: 25:36:90:C2:D7:B8:99:CF:33:F8:B5:0A:D7:99:57:C6:EA:48:44:4D
-
-Verify the sum:
-$ sha256sum focus_groups.apk
-70246579afcb5b944812d34e2b821939a692692a413e5346fcbd5eb9319078fc  focus_groups.apk
-
-Verify the fingerprint:
-$ unzip -p focus_groups.apk META-INF/CERT.RSA | keytool -printcert | grep SHA1
-SHA1: 25:36:90:C2:D7:B8:99:CF:33:F8:B5:0A:D7:99:57:C6:EA:48:44:4D
+--------------------------------------------------------------------------------------------------
