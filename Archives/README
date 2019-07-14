@@ -12,3 +12,10 @@ To verify the integrity of the application packages in GNOME Terminal (or simila
 $ sha1sum -c SHA1SUMS (example)
 
 --------------------------------------------------------------------------------------------------
+
+[Note]
+
+Windows Subsystem for Linux:
+$ sudo apt install dos2unix
+$ dos2unix SHA1SUMS (example)
+$ gpg --verify SHA1SUMS.gpg SHA1SUMS (example)
