@@ -30,7 +30,7 @@ Download [Android Studio](https://developer.android.com/studio/ "Click here to a
 (For help installing the application, follow its [installation instructions](https://developer.android.com/studio/install "Click here to access the instructions.").)<p>
 
 Do not run Android Studio in a virtual machine, though. Run it in one's host operating system.<br>
-Otherwise, the app may not run in an Android Virtual Device.<p>
+Otherwise, the app may not run successfully or quickly in an Android Virtual Device.<p>
 
 Clone the project:
 <pre>
