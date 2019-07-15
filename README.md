@@ -41,7 +41,7 @@ $ git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
 
-The final version is 1.x. Known to work on Ubuntu 18.04 LTS (Linux 4.15.0-46-generic), in Android Studio 3.3.1 (AI-182.5107.16.33.5264788) with JRE<sup>TM</sup> 8u152 64-Bit (1.8.0_152-release-1248-b01 amd64)
+The final version is 1.x. Known to work on Ubuntu 18.04 LTS (Linux 4.15.0-46-generic), in Android Studio 3.3.1 (AI-182.5107.16.33.5264788) with JRE 8u152 64-Bit (1.8.0_152-release-1248-b01 amd64)
 
 ## Usage
 
