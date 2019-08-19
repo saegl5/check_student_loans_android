@@ -13,7 +13,10 @@ $ sha1sum -c SHA1SUMS (example)
 
 --------------------------------------------------------------------------------------------------
 
-[Note]
+[Notes]
+
+``panel_discussion.ipa'' is a close replica to that utilized in the study.
+Exceptions are that rounding and interest computations are corrected, and the monthly balance table is restructured
 
 Windows Subsystem for Linux:
 $ sudo apt install dos2unix
