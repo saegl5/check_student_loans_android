@@ -34,7 +34,7 @@ Otherwise, the app may not run successfully or quickly in an Android Virtual Dev
 
 Clone the project:
 <pre>
-https://gitlab.com/saegl5/check_student_loans_app_android.git
+https://github.com/saegl5/check_student_loans_app_android.git
 </pre>
 
 (Recommended) Open a terminal application, and verify the project's integrity:
@@ -51,13 +51,13 @@ The final version is 1.x. Known to work on Ubuntu 18.04 LTS (Linux 4.15.0-46-gen
 Run the native app with either a virtual device (e.g., Galaxy Nexus with API 28 x86) or a user's own Android phone.<p>
 
 Move the thumb of the slider, to select an estimated cost nearest to yours.<br>
-Press &#x25BC; to select the interest rate of your loan.[^1]<br>
+Press &#x25BC; to select the [interest rate](https://studentaid.ed.gov/sa/types/loans/interest-rates "Click here to visit the office of Federal Student Aid.") of your loan.<br>
 Press &minus; or &#43; to select a monthly payment nearest to yours.<p>
 
 ## Contributing
 
 This project has been archived.<br>
-Please contribute to the project's counterpart, which is based on iOS, by going [here](https://gitlab.com/saegl5/check_student_loans_app_ios "Click here to access the most recent iOS build.").<p>
+Please contribute to the project's counterpart, which is based on iOS, by going [here](https://github.com/saegl5/check_student_loans_ios "Click here to access the most recent iOS build.").<p>
 
 ## History
 
@@ -66,7 +66,7 @@ Sep 26, 2018 &middot; Version 1.x: initial commit
 ## Known Issues
 
 This native app is an alpha build that is outdated.<br>
-Access the native app's most recent build, which is based on iOS, [here](https://gitlab.com/saegl5/check_student_loans_app_ios "Click here to access the most recent build.").<p>
+Access the native app's most recent build, which is based on iOS, [here](https://github.com/saegl5/check_student_loans_ios "Click here to access the most recent build.").<p>
 
 
 ## License
@@ -92,9 +92,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-[^1]: Interest Rates and Fees. (n.d.). Retrieved from [https://studentaid.ed.gov/sa/types/loans/interest-rates](https://studentaid.ed.gov/sa/types/loans/interest-rates "Click here to visit the office of Federal Student Aid.")
-
 
 </content>
 </snippet>
