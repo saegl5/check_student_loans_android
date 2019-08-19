@@ -34,12 +34,12 @@ Otherwise, the app may not run successfully or quickly in an Android Virtual Dev
 
 Clone the project:
 <pre>
-https://github.com/saegl5/check_student_loans_app_android.git
+https://github.com/saegl5/check_student_loans_android.git
 </pre>
 
 (Recommended) Open a terminal application, and verify the project's integrity:
 <pre>
-$ cd /path/to/check_student_loans_app_android
+$ cd /path/to/check_student_loans_android
 $ git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
