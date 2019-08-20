@@ -5,7 +5,7 @@
 
 Check your student loan's length of repayment and amount of savings.<p>
 
-This project is a native Android app that is one of two parts of an experimental study&mdash;the other part being course material, and it is designed to supplement the course material.
+This project is a native Android app that is one of two parts of an experimental study&mdash;the other part being [course material](./Resources/ "Click here to locate the course material."), and it is designed to supplement the course material.
 The combination of both parts is dubbed an *instructional app*. Users select an estimated cost, select the interest rate of their loan, and select a monthly payment. 
 The app will estimate how long repayments will take and how much users can save by paying more than the minimum.
 (This app will not tell you how much money you have loaned. Contact your school's bursar office for that information. Once you have that information, use this app.)<p>
