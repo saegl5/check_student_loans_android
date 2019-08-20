@@ -1,7 +1,7 @@
 <snippet>
 <content>
  
-# ![Alt](/app_icon_and_logo.png "Check Student Loans")
+# ![Alt](./app_icon_and_logo.png "Check Student Loans")
 
 Check your student loan's length of repayment and amount of savings.<p>
 
@@ -17,9 +17,9 @@ Features:
 Designed for phones running Android 4.2 (Jelly Bean) or above<p>
 
 Alternative downloads:<br>
-[Version 1.x for Formal Pilot Test](/Archives/formal_pilot_test.apk "Click here to access the download link.")<br>
-[Version 1.x for Informal Pilot Test](/Archives/informal_pilot_test.apk "Click here to access the download link.")<br>
-[Version 1.x for Focus Groups](/Archives/focus_groups.apk "Click here to access the download link.")<p>
+[Version 1.x for Formal Pilot Test](./Archives/formal_pilot_test.apk "Click here to access the download link.")<br>
+[Version 1.x for Informal Pilot Test](./Archives/informal_pilot_test.apk "Click here to access the download link.")<br>
+[Version 1.x for Focus Groups](./Archives/focus_groups.apk "Click here to access the download link.")<p>
 
 Install alternative downloads directly on phones running Android 4.2 (Jelly Bean) or above.
 
@@ -27,24 +27,24 @@ Install alternative downloads directly on phones running Android 4.2 (Jelly Bean
 ## Build from Source Code
 
 Download [Android Studio](https://developer.android.com/studio/ "Click here to access the download link.") from Google, and install it.<br>
-(For help installing the application, follow its [installation instructions](https://developer.android.com/studio/install "Click here to access the instructions.").)<p>
+(For help with installing the application, follow its [installation instructions](https://developer.android.com/studio/install "Click here to access the instructions.").)<p>
 
 Do not run Android Studio in a virtual machine, though. Run it in a user's host operating system.<br>
 Otherwise, the app may not run successfully or quickly in an Android Virtual Device.<p>
 
 Clone the project:
 <pre>
-https://github.com/saegl5/check_student_loans_android.git
+$ git clone https://github.com/saegl5/check_student_loans_android.git
 </pre>
 
-(Recommended) Open a terminal application, and verify the project's integrity:
+(Recommended) Open GNOME Terminal (or similar), and verify the project's integrity:
 <pre>
 $ cd /path/to/check_student_loans_android
 $ git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
 
-The final version is 1.x. Known to work on Ubuntu 18.04 LTS (Linux 4.15.0-46-generic), in Android Studio 3.3.1 (AI-182.5107.16.33.5264788) with JRE 8u152 64-Bit (1.8.0_152-release-1248-b01 amd64)
+The final version is 1.x. Known to work on Ubuntu 18.04 LTS (Linux 4.15.0-46-generic kernel), in Android Studio 3.3.1 (Build #AI-182.5107.16.33.5264788) with JRE 8u152 64-Bit (1.8.0_152-release-1248-b01 amd64)
 
 ## Usage
 
