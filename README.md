@@ -61,6 +61,7 @@ Please contribute to the project's counterpart, which is based on iOS, by going 
 
 ## History
 
+Oct 12, 2018: refreshed entire project but inadvertently purged commit history<br>
 Sep 26, 2018 &middot; Version 1.x: initial commit
 
 ## Known Issues
