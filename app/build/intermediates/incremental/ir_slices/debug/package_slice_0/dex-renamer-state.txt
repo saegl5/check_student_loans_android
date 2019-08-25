@@ -1,4 +1,0 @@
-#Sun Aug 25 10:19:35 EDT 2019
-base.0=C\:\\Users\\Ed\\StudioProjects\\Check-Student-Loans-for-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
