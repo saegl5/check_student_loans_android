@@ -17,7 +17,7 @@ import android.widget.ImageButton;
 import android.widget.ListView;
 import android.widget.SeekBar;
 import android.widget.Switch;
-import android.widget.TextView;
+import android.widget.TextView; //test
 
 public class MyMainPage extends Fragment { //no need to call any list view delegate or data source
 
