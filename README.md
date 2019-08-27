@@ -34,7 +34,7 @@ Otherwise, the app may not run successfully or quickly in an Android Virtual Dev
 
 Clone the project:
 <pre>
-$ git clone https://github.com/saegl5/check_student_loans_android.git
+$ git clone https://github.com/saegl5/Check-Student-Loans-for-Android.git
 </pre>
 
 (Recommended) Open GNOME Terminal (or similar), and verify the project's integrity:
@@ -57,7 +57,7 @@ Press &minus; or &#43; to select a monthly payment nearest to yours.<p>
 ## Contributing
 
 This project has been archived.<br>
-Please contribute to the project's counterpart, which is based on iOS, by going [here](https://github.com/saegl5/check_student_loans_ios "Click here to access the most recent iOS build.").<p>
+Please contribute to the project's counterpart, which is based on iOS, by going [here](https://github.com/saegl5/Check-Student-Loans-for-iOS "Click here to access the most recent iOS build.").<p>
 
 ## History
 
@@ -67,7 +67,7 @@ Sep 26, 2018 &middot; Version 1.x: initial commit
 ## Known Issues
 
 This native app is an alpha build that is outdated.<br>
-Access the native app's most recent build, which is based on iOS, [here](https://github.com/saegl5/check_student_loans_ios "Click here to access the most recent build.").<p>
+Access the native app's most recent build, which is based on iOS, [here](https://github.com/saegl5/Check-Student-Loans-for-iOS "Click here to access the most recent build.").<p>
 
 
 ## License
