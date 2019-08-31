@@ -39,7 +39,7 @@ $ git clone https://github.com/saegl5/Check-Student-Loans-for-Android.git
 
 (Recommended) Open GNOME Terminal (or similar), and verify the project's integrity:
 <pre>
-$ cd /path/to/check_student_loans_android
+$ cd /path/to/Check-Student-Loans-for-Android
 $ git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
