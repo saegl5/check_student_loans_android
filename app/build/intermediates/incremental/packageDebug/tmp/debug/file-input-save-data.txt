@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Sun Aug 25 10:48:44 EDT 2019
-1.base=C\:\\Users\\Ed\\StudioProjects\\Check-Student-Loans-for-Android\\app\\build\\intermediates\\merged_assets\\debug\\out
+#Mon Sep 16 22:33:48 EDT 2019
+1.base=C\:\\Users\\Ed\\StudioProjects\\check-student-loans-for-android\\app\\build\\intermediates\\merged_assets\\debug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=ASSET
 0.path=classes.dex
 0.set=DEX
-0.base=C\:\\Users\\Ed\\StudioProjects\\Check-Student-Loans-for-Android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.base=C\:\\Users\\Ed\\StudioProjects\\check-student-loans-for-android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 1.path=cmunrm.ttf
