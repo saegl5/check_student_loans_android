@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 16 22:33:48 EDT 2019
+#Wed Sep 18 11:12:15 EDT 2019
 1.base=C\:\\Users\\Ed\\StudioProjects\\check-student-loans-for-android\\app\\build\\intermediates\\merged_assets\\debug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
