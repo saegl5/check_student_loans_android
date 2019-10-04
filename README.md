@@ -5,7 +5,7 @@
 
 Check your student loan's length of repayment and amount of savings.<p>
 
-This project is a native Android app that is one of two parts of an experimental study&mdash;the other part being [course material](https://gitlab.com/saegl5/check-student-loans-course-material "Click here to locate the course material."), and it is designed to supplement the course material.
+This project is a native Android app that is one of two parts of an experimental study&mdash;the other part being [course material](https://gitlab.com/check-student-loans/course-material "Click here to locate the course material."), and it is designed to supplement the course material.
 The combination of both parts is dubbed an *instructional app*. Users select an estimated cost, select the interest rate of their loan, and select a monthly payment. 
 The app will estimate how long repayments will take and how much users can save by paying more than the minimum.
 (This app will not tell you how much money you have loaned. Contact your school's bursar office for that information. Once you have that information, use this app.)<p>
@@ -34,14 +34,14 @@ Otherwise, the app may not run successfully or quickly in an Android Virtual Dev
 
 Clone the project:
 <pre>
-$ git clone https://gitlab.com/saegl5/check-student-loans-for-android.git
+$ git clone https://gitlab.com/check-student-loans/android.git
 </pre>
 
 (Recommended) Verify the project's authenticity: Look for "Verified" next to the commit SHA (e.g., Verified e733a45d).
 
 (Recommended) Open GNOME Terminal (or similar), and verify the project's integrity:
 <pre>
-$ cd /path/to/check-student-loans-for-android
+$ cd /path/to/android
 $ git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
@@ -59,7 +59,7 @@ Press &minus; or &#43; to select a monthly payment nearest to yours.<p>
 ## Contributing
 
 This project has been archived.<br>
-Please contribute to the project's counterpart, which is based on iOS, by going [here](https://gitlab.com/saegl5/check-student-loans-for-ios "Click here to access the most recent iOS build.").<p>
+Please contribute to the project's counterpart, which is based on iOS, by going [here](https://gitlab.com/check-student-loans/ios "Click here to access the most recent iOS build.").<p>
 
 ## History
 
@@ -70,7 +70,7 @@ Sep 26, 2018 &middot; Version 1.x: initial commit
 ## Known Issues
 
 This native app is an alpha build that is outdated.<br>
-Access the native app's most recent build, which is based on iOS, [here](https://gitlab.com/saegl5/check-student-loans-for-ios "Click here to access the most recent build.").<p>
+Access the native app's most recent build, which is based on iOS, [here](https://gitlab.com/check-student-loans/ios "Click here to access the most recent build.").<p>
 
 
 ## License
