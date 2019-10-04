@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ed\\StudioProjects\\check-student-loans-for-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
+            "outputFile": "C:\\Users\\Ed\\StudioProjects\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ed\\.gradle\\caches\\transforms-2\\files-2.1\\a6ae02ef5896c961d01741b356dd2ef6\\res\\values-cs\\values-cs.xml",

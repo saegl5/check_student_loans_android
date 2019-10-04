@@ -1,4 +1,4 @@
-#Wed Sep 18 11:12:15 EDT 2019
-base.0=C\:\\Users\\Ed\\StudioProjects\\check-student-loans-for-android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+#Thu Oct 03 23:16:20 EDT 2019
+base.0=C\:\\Users\\Ed\\StudioProjects\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex
