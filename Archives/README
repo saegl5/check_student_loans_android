@@ -23,4 +23,4 @@ $ sudo apt install dos2unix
 $ dos2unix SHA1SUMS (example)
 $ gpg --verify SHA1SUMS.gpg SHA1SUMS (example)
 
- and focus_groups.apk are identical
+informal_pilot_test.apk and focus_groups.apk are identical
