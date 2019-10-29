@@ -15,10 +15,12 @@ $ sha1sum -c SHA1SUMS (example)
 
 --------------------------------------------------------------------------------------------------
 
-[Note]
+[Notes]
 
 If one verifies authenticity using Windows Subsystem for Linux, the terminal may output ``BAD signature.'' 
 Convert file sums to Unix format, and retry.
 $ sudo apt install dos2unix
 $ dos2unix SHA1SUMS (example)
 $ gpg --verify SHA1SUMS.gpg SHA1SUMS (example)
+
+ and focus_groups.apk are identical
