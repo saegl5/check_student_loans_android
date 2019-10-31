@@ -18,8 +18,8 @@ Designed for phones running Android 4.2 (Jelly Bean) or above<p>
 
 Alternative downloads:<br>
 [Version 1.x for Formal Pilot Test](./Archives/formal_pilot_test.apk "Click here to access the download link.") &nbsp; &#x2713; <br>
-### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
-{: #tanuki-purple} Clean [[Details](https://www.virustotal.com/gui/file/c390f6a054cfb699fcc209f671a7ff8df6d2df9d7145642dfa1663c890f07b99/detection)]<br>
+### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki {: #tanuki-purple} <br>
+Clean [[Details](https://www.virustotal.com/gui/file/c390f6a054cfb699fcc209f671a7ff8df6d2df9d7145642dfa1663c890f07b99/detection)]<br>
 [Version 1.x for Informal Pilot Test](./Archives/informal_pilot_test.apk "Click here to access the download link.")* &nbsp; &#x2713; Clean [[Details](https://www.virustotal.com/gui/file/70246579afcb5b944812d34e2b821939a692692a413e5346fcbd5eb9319078fc/detection)]<br>
 [Version 1.x for Focus Groups](./Archives/focus_groups.apk "Click here to access the download link.")* &nbsp; &#x2713; Clean [[Details](https://www.virustotal.com/gui/file/70246579afcb5b944812d34e2b821939a692692a413e5346fcbd5eb9319078fc/detection)]<br>
 [Version 1.x - Final](./Archives/final.apk "Click here to access the download link.") &nbsp; &#x2713; Clean [[Details](https://www.virustotal.com/gui/file/47a7d6b6a3ab33e5b5a5dd2cbc278d3dc22ef72717fe29638e9de7a33ef44a97/details)]<p>
