@@ -20,7 +20,7 @@ Alternative downloads:<br>
 [Version 1.x for Formal Pilot Test](./Archives/formal_pilot_test.apk "Click here to access the download link.") &nbsp; &#x2713;
 
 <div>
-<p><i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki</p>
+<p>We <i class="fas fa-heart" aria-hidden="true" style="color:#c7254e"></i> GitLab!</p>
 </div>
 
 Clean [[Details](https://www.virustotal.com/gui/file/c390f6a054cfb699fcc209f671a7ff8df6d2df9d7145642dfa1663c890f07b99/detection)]<br>
