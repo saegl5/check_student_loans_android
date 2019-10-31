@@ -6,21 +6,25 @@ Instructional App = course material + Android app
 --------------------------------------------------------------------------------------------------
 Optional
 
-To verify the authenticity of the application packages in GNOME Terminal (or similar):
-$ gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys 0x4191f431
-$ gpg --verify SHA1SUMS.gpg SHA1SUMS (example)
+Prerequisites: gnupg (https://www.gnupg.org/)
 
-To verify the integrity of the application packages in GNOME Terminal (or similar):
-$ sha1sum -c SHA1SUMS (example)
+To verify the authenticity of the application packages in a terminal:
+gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys 0x4191f431
+gpg --verify SHA1SUMS.gpg SHA1SUMS   # example
+
+To verify the integrity of the application packages in a terminal:
+Ubuntu: $ sha1sum -c SHA1SUMS   # example
+macOS: $ shasum -a 1 -c SHA1SUMS   # example
+Windows Subsystem for Linux: $ sha1sum -c SHA1SUMS   # example
 
 --------------------------------------------------------------------------------------------------
 
 [Notes]
 
-If one verifies authenticity using Windows Subsystem for Linux, the terminal may output ``BAD signature.'' 
-Convert file sums to Unix format, and retry.
-$ sudo apt install dos2unix
-$ dos2unix SHA1SUMS (example)
-$ gpg --verify SHA1SUMS.gpg SHA1SUMS (example)
-
 informal_pilot_test.apk and focus_groups.apk are identical
+
+If one verifies authenticity using Windows Subsystem for Linux, the terminal may output ``BAD signature.'' 
+Convert file hash to Unix format, and retry:
+$ sudo apt install dos2unix
+$ dos2unix SHA1SUMS   # example
+$ gpg --verify SHA1SUMS.gpg SHA1SUMS   # example

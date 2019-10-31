@@ -35,29 +35,36 @@ Download [Android Studio](https://developer.android.com/studio/ "Click here to a
 Do not run Android Studio in a virtual machine, though. Run it in a user's host operating system.<br>
 Otherwise, the app may not run successfully or quickly in an Android Virtual Device.<p>
 
-Clone the project:
+Also, download and install [Git](https://git-scm.com/downloads "Click here to access the download link.").
+
+Open a terminal, and clone the project:
 <pre>
-$ git clone https://gitlab.com/check-student-loans/android.git
+git clone https://gitlab.com/check-student-loans/android.git
 </pre>
 
-(Recommended) Verify the project's authenticity: Look for "Verified" next to the commit SHA (e.g., Verified e733a45d).
+(Recommended) Verify the project's authenticity: Look in GitLab for "Verified" next to the commit SHA (e.g., Verified e733a45d).
 
-(Recommended) Open GNOME Terminal (or similar), and verify the project's integrity:
+(Recommended) Open a terminal, and verify the project's integrity:
 <pre>
-$ cd /path/to/android
-$ git show-ref --heads --hash
+cd android
+git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
 
-Known to work in Android Studio 3.4.2
+Open the project in Android Studio, and build the native app:<br>
+* For a virtual or connected Android phone, select Build > Make Project.<br>
+* Otherwise, select Build > Build APK(s).<p>
 
 ## Usage
 
-Run the native app with either a virtual device (e.g., Galaxy Nexus with API 28 x86) or a user's own Android phone.<p>
+Run the native app in a virtual device (e.g., Galaxy Nexus with API 28 x86) or on a connected device.<br>
+Or, install the APK file directly on a user's own Android phone.<p>
 
 Move the thumb of the slider, to select an estimated cost nearest to yours.<br>
 Press &#x25BC; to select the [interest rate](https://studentaid.ed.gov/sa/types/loans/interest-rates "Click here to visit the office of Federal Student Aid.") of your loan.<br>
 Press &minus; or &#43; to select a monthly payment nearest to yours.<p>
+
+Known to work in Android Studio 3.4.2 and phones running Android 4.2 (Jelly Bean) or above.
 
 ## Contributing
 
