@@ -75,6 +75,7 @@ Please contribute to the project's counterpart, which is based on iOS, by going 
 
 ## History
 
+Oct 31, 2019: enhanced accessibility<br>
 Sep 25, 2019: unified author name and email of all commits<br>
 Sep 17, 2019: starting signing commits, signed and re-committed old ones, inadvertently lost empty commits but they were empty anyway<br>
 Oct 12, 2018: refreshed entire project but inadvertently purged commit history<br>
