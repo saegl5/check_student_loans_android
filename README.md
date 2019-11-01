@@ -1,7 +1,7 @@
 <snippet>
 <content>
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous" type="text/css"></link>
+<p><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"></link></p>
  
 # ![Alt](./app_icon_and_logo.png "Check Student Loans")
 
