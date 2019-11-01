@@ -1,7 +1,5 @@
 <snippet>
 <content>
-
-<p><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"></link></p>
  
 # ![Alt](./app_icon_and_logo.png "Check Student Loans")
 
@@ -19,7 +17,8 @@ Features:
 Designed for phones running Android 4.2 (Jelly Bean) or above<p>
 
 Alternative downloads:<br>
-[Version 1.x for Formal Pilot Test](./Archives/formal_pilot_test.apk "Click here to access the download link.") &nbsp; <i class="far fa-check-circle" style="color:rgb(34,181,115)" aria-hidden="true"> No malware</i> [[Details](https://www.virustotal.com/gui/file/c390f6a054cfb699fcc209f671a7ff8df6d2df9d7145642dfa1663c890f07b99/detection)]<br>
+<p><p><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"/></p>
+[Version 1.x for Formal Pilot Test](./Archives/formal_pilot_test.apk "Click here to access the download link.") &nbsp; <i class="far fa-check-circle" style="color:rgb(34,181,115)" aria-hidden="true"> No malware</i> [[Details](https://www.virustotal.com/gui/file/c390f6a054cfb699fcc209f671a7ff8df6d2df9d7145642dfa1663c890f07b99/detection)]</p><br>
 [Version 1.x for Informal Pilot Test](./Archives/informal_pilot_test.apk "Click here to access the download link.")* &nbsp; <i class="far fa-check-circle" style="color:rgb(34,181,115)" aria-hidden="true"> No malware</i> [[Details](https://www.virustotal.com/gui/file/70246579afcb5b944812d34e2b821939a692692a413e5346fcbd5eb9319078fc/detection)]<br>
 [Version 1.x for Focus Groups](./Archives/focus_groups.apk "Click here to access the download link.")* &nbsp; <i class="far fa-check-circle" style="color:rgb(34,181,115)" aria-hidden="true"> No malware</i> [[Details](https://www.virustotal.com/gui/file/70246579afcb5b944812d34e2b821939a692692a413e5346fcbd5eb9319078fc/detection)]<br>
 [Version 1.x - Final](./Archives/final.apk "Click here to access the download link.") &nbsp; <i class="far fa-check-circle" style="color:rgb(34,181,115)" aria-hidden="true"> No malware</i> [[Details](https://www.virustotal.com/gui/file/47a7d6b6a3ab33e5b5a5dd2cbc278d3dc22ef72717fe29638e9de7a33ef44a97/details)]<p>
