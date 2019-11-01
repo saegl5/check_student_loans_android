@@ -1,5 +1,7 @@
 <snippet>
 <content>
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
  
 # ![Alt](./app_icon_and_logo.png "Check Student Loans")
 
