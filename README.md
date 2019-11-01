@@ -1,3 +1,5 @@
+<link crossorigin=anonymous href='https://use.fontawesome.com/releases/v5.1.0/css/all.css' integrity='sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt' rel=stylesheet />
+
 <snippet>
 <content>
  
@@ -21,10 +23,10 @@ Alternative downloads:<br>
 
 
  <!-- <p><i class="far fa-check-circle" style="color:rgb(34,181,115)" aria-hidden="true"></i><link href="all.css" rel="stylesheet"></link></p> -->
-<div>
+
  ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
 {: #puzzle}
-</div>
+
 
 <!-- <p><link rel="stylesheet" href="all.css"></link></i></p> -->
 
