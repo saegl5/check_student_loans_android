@@ -89,7 +89,7 @@ Access the native app's most recent build, which is based on iOS, [here](https:/
 
 MIT
 
-Copyright (c) 2018-2019 Ed Silkworth
+Copyright (c) 2018-2020 Ed Silkworth
 
 </content>
 </snippet>
