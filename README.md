@@ -91,8 +91,5 @@ MIT
 
 Copyright (c) 2018-2019 Ed Silkworth
 
-Portions of the code, though, are dependent on a third-party Maven Repository.
-
-
 </content>
 </snippet>
