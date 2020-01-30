@@ -42,7 +42,7 @@ Open a terminal, and clone the project:
 git clone https://gitlab.com/check-student-loans/android.git
 </pre>
 
-(Recommended) Verify the project's authenticity: Look in GitLab for "Verified" next to the commit SHA (e.g., Verified e733a45d).
+(Recommended) Verify the project's authenticity: Look upward for "Verified" next to the commit SHA (e.g., Verified e733a45d).
 
 (Recommended) Open a terminal, and verify the project's integrity:
 <pre>
