@@ -313,7 +313,7 @@ public class MyMainPage extends Fragment { //no need to call any list view deleg
                     else {
                         a += 100;
                     }*/
-                    //informal pilot study and focus groups: made increments increase by 50, instead of 100
+                    //informal field test and focus groups: made increments increase by 50, instead of 100
                     if (a < 50) {
                         a = 50;
                     }

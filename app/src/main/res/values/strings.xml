@@ -16,8 +16,8 @@
     <string name="hundredninetyseven">197</string>
     <string name="years">year(s)</string>
     <string name="ten">10</string>
-    <string name="months">month(s)</string> //informal pilot study and focus groups: inserted 'android:layout_marginBottom="19.2dp"'
-    <string name="estsavings">Est. Saving ($)</string> //informal pilot study and focus groups: singular
+    <string name="months">month(s)</string> //informal field test and focus groups: inserted 'android:layout_marginBottom="19.2dp"'
+    <string name="estsavings">Est. Saving ($)</string> //informal field test and focus groups: singular
     <string name="zero">0</string>
 
     //Page View 1 - for "Awesome" only
