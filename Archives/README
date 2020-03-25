@@ -27,8 +27,9 @@ $ Get-Content .\SHA1SUMS
 
 informal_field_test.apk and focus_groups.apk are identical
 
-If one verifies authenticity using Windows Subsystem for Linux, the terminal may output ``BAD signature.'' 
-Convert file hash to Unix format, and retry:
+If one verifies authenticity and integrity using Windows Subsystem for Linux, the terminal may output "BAD signature" and "FAILED open or read."
+If so, convert checksum files to Unix format, and retry.
 $ sudo apt install dos2unix
 $ dos2unix SHA1SUMS
 $ gpg --verify SHA1SUMS.gpg SHA1SUMS
+$ sha1sum -c SHA1SUMS
