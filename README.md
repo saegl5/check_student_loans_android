@@ -1,7 +1,9 @@
 <snippet>
 <content>
  
-# ![Alt](./app_icon_and_logo.png "Check Student Loans")
+![Alt](./app_icon_and_logo.png "Check Student Loans")
+
+## Native App
 
 Check your student loan's length of repayment and amount of savings.<p>
 
