@@ -26,6 +26,7 @@ $ Get-Content .\SHA1SUMS
 [Notes]
 
 informal_field_test.apk and focus_groups.apk are identical
+v1.x-alpha.apk and final.apk are identical, as well
 
 If one verifies authenticity and integrity using Windows Subsystem for Linux, the terminal may output "BAD signature" and "FAILED open or read."
 If so, convert checksum files to Unix format, and retry.
